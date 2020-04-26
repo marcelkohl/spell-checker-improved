@@ -18,7 +18,7 @@ As this plugin is still in development it is not officially published at the ato
   - :heavy_check_mark: matches camelCase, PascalCase, dashed-words, snake_style_words, word with apostrophes;
   - :heavy_check_mark: acceptable performance;
   - :heavy_check_mark: add suggestions on context menu with replace method;
-  - add custom spell checker file for know words per project (folder);
+  - add word with custom file for know words per project (folder);
 - priority 1
   - make checker and marker as promises;
 - priority 2
