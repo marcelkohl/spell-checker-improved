@@ -16,7 +16,7 @@
     "dictionariesPath": {
       "title": "Dictionaries Path",
       "type": "string",
-      "description": "path for the spellchecker dictionaries. It depends on your operational system.",
+      "description": "path for the spell checker dictionaries. It depends on your operational system.",
       "default": "",
       "order": 1
     },
