@@ -1,0 +1,65 @@
+Here are some examples on what have
+to be checked, from teh spell chekcer.
+
+Waht, sn needed mpl is only some combinations
+like:
+Simple    - OK
+doesn't   - OK
+wasn't    - OK
+don't     - OK
+don'y     - misspell
+wasz't    - misspell
+wasn'y    - misspell
+anothEr   - misspell
+anotheR   - misspell
+waht's up - misspell
+what'z up - misspell
+doesn'r   - misspell
+
+dashed-case             - OK
+Some-Right-Case         - OK
+snaked-worng-case       - misspell
+Wrogn-value-here        - misspell
+wrong-caluv-here        - misspell
+another-errox-herre     - misspell
+still-Remainx-erros     - misspell
+errors-could-jappen     - misspell
+here-Jappen             - misspell
+
+CamelCase               - OK
+CamelWorngCase          - misspell
+AnotherMispel           - misspell
+BigMisspellHapeningHere - misspell
+
+snaked_case             - OK
+Some_Right_Case         - OK
+snaked_worng_case       - misspell
+Wrogn_value_here        - misspell
+wrong_caluv_here        - misspell
+another_errox_herre     - misspell
+still_Remainx_erros     - misspell
+errors_could_jappen     - misspell
+here_Jappen             - misspell
+
+LICENSE             - OK
+CRITICAL-CASE       - OK
+SUPER_RIGHT         - OK
+DO                  - OK
+WHAT'S              - OK
+ISN'T               - OK
+Wasn't              - OK
+What's              - OK
+What'g              - misspell
+TODO                - misspell
+ERROR-CAES          - misspell
+ANOTHER_ERRRO_CSEA  - misspell
+WROGN_CASE_HERE     - misspell
+WAHT'S              - misspell
+WHAT'G              - misspell
+
+'this is right'     - OK
+'THIS IS RIGHT'     - OK
+"this is right"     - OK
+"This is Right"     - OK
+"Tihs is Wirng"     - misspell
+"THSI IS WIRNG"     - misspell

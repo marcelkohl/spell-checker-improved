@@ -1,0 +1,20 @@
+// The ui-variables file is provided by base themes provided by Atom.
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+@underline-color: #F88303;
+
+atom-text-editor .highlights {
+  .highlight .spell-checker {
+    position: absolute;
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  .spell-checker-misspelled .region {
+    box-sizing: border-box;
+    background-color: transparent;
+    border-bottom: 1px dashed @underline-color;
+  }
+}

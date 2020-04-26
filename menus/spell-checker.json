@@ -1,0 +1,18 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Spell Checker",
+        "submenu": [
+          {
+            "label": "Add Word to spell checker",
+            "command": "spell-checker-add-word:addWord"
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    ]
+  }
+}

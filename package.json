@@ -1,0 +1,38 @@
+{
+  "name": "spell-checker-improved",
+  "main": "./lib/spell-checker-improved",
+  "version": "1.1.0",
+  "description": "spell checker improved",
+  "keywords": [],
+  "repository": "https://github.com/marcelkohl/spell-checker-improved",
+  "license": "GPLv3",
+  "engines": {
+    "atom": ">=1.45.0 <2.0.0"
+  },
+  "dependencies": {
+    "spellchecker": "^3.3.1"
+  },
+  "configSchema": {
+    "dictionariesPath": {
+      "title": "Dictionaries Path",
+      "type": "string",
+      "description": "path for the spellchecker dictionaries. It depends on your operational system.",
+      "default": "",
+      "order": 1
+    },
+    "locale": {
+      "title": "Language Locale",
+      "type": "string",
+      "description": "locale of the language to spell check (no effect on Windows systems). Some thing like: 'en-US' if blank system default is used",
+      "default": "",
+      "order": 2
+    },
+    "knownWords": {
+      "title": "Known Words",
+      "type": "array",
+      "description": "list of words to ignore during spell checking",
+      "default": [],
+      "order": 3
+    }
+  }
+}
