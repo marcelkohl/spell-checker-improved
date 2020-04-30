@@ -1,7 +1,7 @@
 {
   "name": "spell-checker-improved",
   "main": "./lib/spell-checker-improved",
-  "version": "1.1.0",
+  "version": "1.0.2",
   "description": "spell checker improved",
   "keywords": [],
   "repository": "https://github.com/marcelkohl/spell-checker-improved",
@@ -26,13 +26,6 @@
       "description": "locale of the language to spell check (no effect on Windows systems). Some thing like: 'en-US' if blank system default is used",
       "default": "",
       "order": 2
-    },
-    "knownWords": {
-      "title": "Known Words",
-      "type": "array",
-      "description": "list of words to ignore during spell checking",
-      "default": [],
-      "order": 3
     }
   }
 }
