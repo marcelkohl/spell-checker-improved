@@ -21,7 +21,7 @@ As this plugin is still in development it is not officially published at the ato
   - :heavy_check_mark: add word with custom file for know words per project (folder);
 - priority 1
   - :heavy_check_mark: make checker and marker as promises;
-  - folded blocks must work
+  - :heavy_check_mark: folded blocks must work
 - priority 2
   - create resource to load custom plugins for additional checkings;
   - create plugin for language (php, javascript, etc). Try to get list of words from native filetype;
