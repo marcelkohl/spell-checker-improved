@@ -27,5 +27,12 @@
       "default": "",
       "order": 2
     }
+  },
+  "consumedServices": {
+    "spell-checker-improved": {
+      "versions": {
+        "1.0.0": "getSubscribedPlugins"
+      }
+    }
   }
 }
