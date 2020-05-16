@@ -23,8 +23,8 @@ As this plugin is still in development it is not officially published at the ato
   - :heavy_check_mark: make checker and marker as promises;
   - :heavy_check_mark: folded blocks must work
 - priority 2
-  - create resource to load custom plugins for additional checkings;
-  - create plugin for language (php, javascript, etc). Try to get list of words from native filetype;
+  - :heavy_check_mark: create resource to load custom plugins for additional checkings;
+  - create plugin for language (php, javascript, common-tech-words);
   - allow plugins to interact onGettingMisspelled words and afterWordsChecked;
   - add an icon to show status of checking/misspells;
   - add event onMisspellMarked(misspelled with target coordinates) so other plugins can get updates about this plugin and extend, like for minimap;
