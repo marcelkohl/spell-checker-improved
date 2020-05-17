@@ -35,3 +35,8 @@ As this plugin is still in development it is not officially published at the ato
   - :heavy_check_mark: improve checker marker performance
   - create list of editable file types on settings of every plugin;
   - add shortcut to auto correct selected word with the first suggestion from spellchecker (to avoid navigate into the menu)
+  
+#Copyright
+Status bar icon based on [grammar icon](https://www.flaticon.com/packs/text-editing-1) made by [bqlqn](https://www.flaticon.com/authors/bqlqn)
+
+Checked, working and alert icon made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect)
