@@ -33,7 +33,7 @@ As this plugin is still in development it is not officially published at the ato
 - priority 5
   - add more than one language to the translators
   - :heavy_check_mark: improve checker marker performance
-  - create list of editable file types on settings of every plugin;
+  - :heavy_check_mark: create list of editable file types on settings of every plugin;
   - add shortcut to auto correct selected word with the first suggestion from spellchecker (to avoid navigate into the menu)
   - clicking on statusbar icon focus on next misspelled word;
   
