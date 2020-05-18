@@ -25,7 +25,7 @@ As this plugin is still in development it is not officially published at the ato
 - priority 2
   - :heavy_check_mark: create resource to load custom plugins for additional checkings;
   - :heavy_check_mark: create plugin for language (php, javascript, common-tech-words);
-  - add an icon to show status of checking/misspells;
+  - :heavy_check_mark: add an icon to show status of checking/misspells;
   - add event onMisspellMarked(misspelled with target coordinates) so other plugins can get updates about this plugin and extend, like for minimap;
 - priority 4
   - custom color for the marker;
@@ -35,6 +35,7 @@ As this plugin is still in development it is not officially published at the ato
   - :heavy_check_mark: improve checker marker performance
   - create list of editable file types on settings of every plugin;
   - add shortcut to auto correct selected word with the first suggestion from spellchecker (to avoid navigate into the menu)
+  - clicking on statusbar icon focus on next misspelled word;
   
 #Copyright
 Status bar icon based on [grammar icon](https://www.flaticon.com/packs/text-editing-1) made by [bqlqn](https://www.flaticon.com/authors/bqlqn)
