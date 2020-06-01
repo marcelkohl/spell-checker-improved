@@ -26,7 +26,7 @@ As this plugin is still in development it is not officially published at the ato
   - :heavy_check_mark: create resource to load custom plugins for additional checkings;
   - :heavy_check_mark: create plugin for language (php, javascript, common-tech-words);
   - :heavy_check_mark: add an icon to show status of checking/misspells;
-  - add event onMisspellMarked(misspelled with target coordinates) so other plugins can get updates about this plugin and extend, like for minimap;
+  - :heavy_check_mark: add event onMisspellMarked(misspelled with target coordinates) so other plugins can get updates about this plugin and extend, like for minimap;
 - priority 4
   - custom color for the marker;
   - publish on atom plugins list;
