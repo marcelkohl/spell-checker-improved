@@ -9,6 +9,9 @@ This is an improved spell checker atom plugin that supports camelCases, PascalCa
 
 Also, the plan is to have a a good integration with additional plugins that can listen to the spell checker, providing a better checker.
 
+## Plugins
+The spell checker improved allows to create plugins that can interact and/or add functionality. Specifications an sample plugin can be found at [this link](https://github.com/marcelkohl/spell-checker-improved-plugin-sample).
+
 ## Install
 As this plugin is still in development it is not officially published at the atom plugins list and if you want to use, test or help just clone/download the project and add it to your atom/packages folder.
 
@@ -36,7 +39,7 @@ As this plugin is still in development it is not officially published at the ato
   - :heavy_check_mark: create list of editable file types on settings of every plugin;
   - add shortcut to auto correct selected word with the first suggestion from spellchecker (to avoid navigate into the menu)
   - clicking on statusbar icon focus on next misspelled word;
-  
+
 ## Copyright
 Status bar icon based on [grammar icon](https://www.flaticon.com/packs/text-editing-1) made by [bqlqn](https://www.flaticon.com/authors/bqlqn)
 
