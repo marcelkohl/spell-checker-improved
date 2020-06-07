@@ -31,7 +31,7 @@
   "consumedServices": {
     "spell-checker-improved": {
       "versions": {
-        "1.0.0": "getSubscribedPlugins"
+        "^1.0.0": "getSubscribedPlugins"
       }
     },
     "status-bar": {
