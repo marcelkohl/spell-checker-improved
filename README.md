@@ -15,6 +15,9 @@ This is an improved spell checker atom plugin that supports camelCases, PascalCa
 
 ![sample-suggestions](https://github.com/marcelkohl/spell-checker-improved/blob/master/sample/suggestions.png?raw=true)
 
+## Setup
+It is recommended to disable the atom's native spell-check package to avoid conflicts.
+
 ## Plugins
 The spell checker improved allows to create plugins that can interact and/or add functionality. Specifications an sample plugin can be found at [this link](https://github.com/marcelkohl/spell-checker-improved-plugin-sample).
 
