@@ -7,7 +7,13 @@
 # Spell Checker Improved
 This is an improved spell checker atom plugin that supports camelCases, PascalCases, dashed-words, snake_style_words and word with apostrophes.
 
-Also, the plan is to have a a good integration with additional plugins that can listen to the spell checker, providing a better checker.
+![sample-status-bar-notification](https://github.com/marcelkohl/spell-checker-improved/blob/master/sample/status-bar-notification.png?raw=true)
+
+![sample-misspelled-marker](https://github.com/marcelkohl/spell-checker-improved/blob/master/sample/misspelled-marker.png?raw=true)
+
+![sample-add-word](https://github.com/marcelkohl/spell-checker-improved/blob/master/sample/add-word.png?raw=true)
+
+![sample-suggestions](https://github.com/marcelkohl/spell-checker-improved/blob/master/sample/suggestions.png?raw=true)
 
 ## Plugins
 The spell checker improved allows to create plugins that can interact and/or add functionality. Specifications an sample plugin can be found at [this link](https://github.com/marcelkohl/spell-checker-improved-plugin-sample).
