@@ -31,7 +31,7 @@ As this plugin is still in development it is not officially published at the ato
   - :heavy_check_mark: add an icon to show status of checking/misspells;
   - :heavy_check_mark: add event onMisspellMarked(misspelled with target coordinates) so other plugins can get updates about this plugin and extend, like for minimap;
 - priority 4
-  - validate package on Windows and MacOS;
+  - :heavy_check_mark: validate package on Windows and MacOS;
   - publish on atom plugins list;
 - priority 5
   - add more than one language to the translators
