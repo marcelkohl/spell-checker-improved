@@ -16,15 +16,15 @@
     "dictionariesPath": {
       "title": "Dictionaries Path",
       "type": "string",
-      "description": "path for the spell checker dictionaries. It depends on your operational system.",
+      "description": "Path for the spell checker dictionaries. It depends on your operational system. This package will try to identify automatically your default dictionary path based on your operational system, however it mail fail if you have non-standard settings.",
       "default": "",
       "order": 1
     },
     "locale": {
       "title": "Language Locale",
       "type": "string",
-      "description": "locale of the language to spell check (no effect on Windows systems). Some thing like: 'en-US' if blank system default is used",
-      "default": "",
+      "description": "Locale string for the language to spell check (Examples: en_US, pt_BR, Es_ES, etc). On Windows it does not have effect as it is managed in a different way.",
+      "default": "en_US",
       "order": 2
     }
   },
