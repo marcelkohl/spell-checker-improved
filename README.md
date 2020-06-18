@@ -24,7 +24,6 @@ The spell checker improved allows to create plugins that can interact and/or add
 ## To do
   - add more than one language to the translators
   - add shortcut to auto correct selected word with the first suggestion from spellchecker (to avoid navigate into the menu)
-  - clicking on status bar icon focus on next misspelled word;
 
 ## Copyright
 Status bar icon based on [grammar icon](https://www.flaticon.com/packs/text-editing-1) made by [bqlqn](https://www.flaticon.com/authors/bqlqn)
