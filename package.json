@@ -1,7 +1,7 @@
 {
   "name": "spell-checker-improved",
   "main": "./lib/spell-checker-improved",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "spell checker improved",
   "keywords": [],
   "repository": "https://github.com/marcelkohl/spell-checker-improved",
