@@ -26,6 +26,13 @@
       "description": "Locale string for the language to spell check (Examples: en_US, pt_BR, Es_ES, etc). On Windows it does not have effect as it is managed in a different way.",
       "default": "en_US",
       "order": 2
+    },
+    "checkOtherSpellChecker": {
+      "title": "Always check for other spell checkers",
+      "type": "boolean",
+      "default": true,
+      "description": "If checked, then verifies for other spell checkers that may conflict with the package.",
+      "order": 3
     }
   },
   "consumedServices": {
