@@ -1,7 +1,7 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![Generic badge](https://img.shields.io/badge/status-published-green.svg)](https://shields.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](#)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](#)
+[![Generic badge](https://img.shields.io/badge/status-published-green.svg)](#)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/marcelkohl)
 
 
 # Spell Checker Improved
